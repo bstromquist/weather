@@ -1,0 +1,26 @@
+{
+  "command": "build",
+  "vcordova": "6.3.1",
+  "cfg": "debug",
+  "status": "Complete",
+  "buildCommand": "build",
+  "buildPlatform": "ios",
+  "configuration": "debug",
+  "buildDir": "/Users/brian/.taco_home/remote-builds/taco-remote/builds/1220",
+  "buildNumber": 1220,
+  "options": "",
+  "logLevel": 0,
+  "submissionTime": "2021-03-10T16:23:46.741Z",
+  "changeList": {
+    "deletedFiles": []
+  },
+  "buildSuccessful": true,
+  "messageArgs": [
+    "ios"
+  ],
+  "message": "Build completed successfully.",
+  "tgzFilePath": "/Users/brian/.taco_home/remote-builds/taco-remote/builds/1220/upload_1220.tgz",
+  "appDir": "/Users/brian/.taco_home/remote-builds/taco-remote/builds/1220/cordovaApp",
+  "statusTime": "2021-03-10T16:24:27.364Z",
+  "appName": "WeatherApp"
+}

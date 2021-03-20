@@ -1,0 +1,19 @@
+{
+  "android": {
+    "release": {
+      "keystore": "",
+      "storePassword": "",
+      "alias": "",
+      "password": "",
+      "keystoreType": ""
+    }
+  },
+  "ios": {
+    "debug": {
+      "developmentTeam": "UNQA936CKT"
+    },
+    "release": {
+      "developmentTeam": "UNQA936CKT"
+    }
+  }
+}
